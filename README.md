@@ -14,7 +14,7 @@ HTML
 CSS
 JavaScript
 
-Live Demo-  [Link to live demo]
+Live Demo-  [https://devinfodetective.netlify.app]
 
 Contact
 If you have any questions or feedback, please feel free to contact me at [upawan7273@gmail.com].
